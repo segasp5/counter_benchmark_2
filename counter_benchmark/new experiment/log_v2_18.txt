@@ -1,0 +1,4 @@
+Benchmark                             Mode  Samples      Score  Score error   Units
+m.MyBenchmark.atomicCounter          thrpt       30   3187,681      344,088  ops/ms
+m.MyBenchmark.atomicInteger          thrpt       30  13619,179      290,646  ops/ms
+m.MyBenchmark.synchronizedCounter    thrpt       30   9291,539      559,790  ops/ms
