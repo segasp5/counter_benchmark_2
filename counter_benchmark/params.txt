@@ -1,0 +1,4 @@
+AMD PRO A8, 10 Compute Cores 4C+6G
+4 cores
+3.4 GHz
+4 GB RAM

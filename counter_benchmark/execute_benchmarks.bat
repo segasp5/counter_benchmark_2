@@ -1,0 +1,15 @@
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 1 -rf text -rff log_v2_1.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 2 -rf text -rff log_v2_2.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 3 -rf text -rff log_v2_3.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 4 -rf text -rff log_v2_4.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 5 -rf text -rff log_v2_5.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 6 -rf text -rff log_v2_6.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 7 -rf text -rff log_v2_7.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 8 -rf text -rff log_v2_8.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 9 -rf text -rff log_v2_9.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 10 -rf text -rff log_v2_10.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 12 -rf text -rff log_v2_12.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 14 -rf text -rff log_v2_14.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 16 -rf text -rff log_v2_16.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 18 -rf text -rff log_v2_18.txt
+java -jar target/benchmarks.jar -f 1 -wi 7 -i 30 -t 20 -rf text -rff log_v2_20.txt

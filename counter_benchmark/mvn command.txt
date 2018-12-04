@@ -1,0 +1,1 @@
+C:/Users/17050377/maven/bin/mvn clean install
